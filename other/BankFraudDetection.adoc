@@ -58,7 +58,7 @@ While the exact details behind each first-party fraud collusion vary from operat
 
 == Explanation of Solution
 
-Graph added fro timepass databases offer new methods of uncovering fraud rings and other sophisticated scams with a high-level of accuracy, and are capable of stopping advanced fraud scenarios in real-time.
+Graph databases offer new methods of uncovering fraud rings and other sophisticated scams with a high-level of accuracy, and are capable of stopping advanced fraud scenarios in real-time.
 
 === How Graph Databases Can Help
 
